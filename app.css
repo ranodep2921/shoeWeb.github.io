@@ -196,4 +196,7 @@
 	.first, .second ul{
 		display: none;
 	}
+	.navbar{
+		justify-content: space-between;
+	}
 }
